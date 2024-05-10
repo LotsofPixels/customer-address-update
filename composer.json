@@ -1,5 +1,5 @@
 {
-    "name": "lotsofpixels/customer-update",
+    "name": "lotsofpixels/customer-address-update",
     "description": "Updates customer_entity updated_at after address save",
     "require": {
         "php": "~7.4|~8.0|~8.1|8.2|8.3"
